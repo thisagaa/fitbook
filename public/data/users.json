@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Alex Member", "email": "member@fitbook.test", "password": "member123", "role": "member" },
+  { "id": 2, "name": "Sam Admin", "email": "admin@fitbook.test", "password": "admin123", "role": "admin" }
+]
